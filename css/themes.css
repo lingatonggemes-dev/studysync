@@ -1,0 +1,162 @@
+/* ============ 1. Mossy Morning (default) ============ */
+:root,
+[data-theme="mossy-morning"] {
+  --bg-page: #eef2e8;
+  --surface-1: rgba(255, 255, 255, 0.55);
+  --surface-2: rgba(199, 221, 181, 0.45);
+  --surface-3: rgba(255, 255, 255, 0.78);
+  --text-main: #2f3a2a;
+  --text-muted: #5c6b53;
+  --text-heading: #26301f;
+  --accent-primary: #658354;
+  --accent-primary-strong: #4b6043;
+  --accent-secondary: #87ab69;
+  --border: rgba(75, 96, 67, 0.18);
+  --glass-border: rgba(255, 255, 255, 0.6);
+  --focus-ring: #4b6043;
+  --shadow-card: 0 8px 30px rgba(75, 96, 67, 0.12);
+  --btn-bg: #658354;
+  --btn-bg-hover: #4b6043;
+  --btn-text: #ffffff;
+  --nav-item-active-bg: #4b6043;
+  --nav-item-active-text: #ffffff;
+  --progress: #87ab69;
+  --tag-bg: #ddead1;
+  --tag-text: #4b6043;
+  --deco: #95bb72;
+}
+
+/* ============ 2. Rainy Day Café ============ */
+[data-theme="rainy-day-cafe"] {
+  --bg-page: #efe4d6;
+  --surface-1: rgba(255, 250, 244, 0.55);
+  --surface-2: rgba(216, 195, 165, 0.45);
+  --surface-3: rgba(255, 250, 244, 0.8);
+  --text-main: #3e2f26;
+  --text-muted: #7a6453;
+  --text-heading: #2e211a;
+  --accent-primary: #6b4f3a;
+  --accent-primary-strong: #3e2f26;
+  --accent-secondary: #a8846b;
+  --border: rgba(62, 47, 38, 0.18);
+  --glass-border: rgba(255, 250, 244, 0.6);
+  --focus-ring: #6b4f3a;
+  --shadow-card: 0 8px 30px rgba(62, 47, 38, 0.16);
+  --btn-bg: #6b4f3a;
+  --btn-bg-hover: #3e2f26;
+  --btn-text: #fff8f0;
+  --nav-item-active-bg: #3e2f26;
+  --nav-item-active-text: #f3e8d8;
+  --progress: #a8846b;
+  --tag-bg: #e8d5bd;
+  --tag-text: #6b4f3a;
+  --deco: #c9a98a;
+}
+
+/* ============ 3. Strawberry Milk ============ */
+[data-theme="strawberry-milk"] {
+  --bg-page: #fdeef1;
+  --surface-1: rgba(255, 255, 255, 0.6);
+  --surface-2: rgba(248, 214, 222, 0.45);
+  --surface-3: rgba(255, 255, 255, 0.82);
+  --text-main: #5a2a35;
+  --text-muted: #8f5563;
+  --text-heading: #4a1f29;
+  --accent-primary: #b56576;
+  --accent-primary-strong: #7a3b47;
+  --accent-secondary: #e8b4bc;
+  --border: rgba(122, 59, 71, 0.15);
+  --glass-border: rgba(255, 255, 255, 0.65);
+  --focus-ring: #b56576;
+  --shadow-card: 0 8px 30px rgba(122, 59, 71, 0.12);
+  --btn-bg: #b56576;
+  --btn-bg-hover: #7a3b47;
+  --btn-text: #ffffff;
+  --nav-item-active-bg: #7a3b47;
+  --nav-item-active-text: #fdf2f4;
+  --progress: #e8b4bc;
+  --tag-bg: #fbe0e5;
+  --tag-text: #7a3b47;
+  --deco: #e8b4bc;
+}
+
+/* ============ 4. Lavender Twilight ============ */
+[data-theme="lavender-twilight"] {
+  --bg-page: #eceaf5;
+  --surface-1: rgba(255, 255, 255, 0.55);
+  --surface-2: rgba(214, 217, 236, 0.45);
+  --surface-3: rgba(255, 255, 255, 0.8);
+  --text-main: #383050;
+  --text-muted: #6a6188;
+  --text-heading: #2c2545;
+  --accent-primary: #7b6aa8;
+  --accent-primary-strong: #4a3f6b;
+  --accent-secondary: #b8a9d9;
+  --border: rgba(74, 63, 107, 0.18);
+  --glass-border: rgba(255, 255, 255, 0.6);
+  --focus-ring: #7b6aa8;
+  --shadow-card: 0 8px 30px rgba(74, 63, 107, 0.14);
+  --btn-bg: #7b6aa8;
+  --btn-bg-hover: #4a3f6b;
+  --btn-text: #ffffff;
+  --nav-item-active-bg: #4a3f6b;
+  --nav-item-active-text: #f3f1fb;
+  --progress: #b8a9d9;
+  --tag-bg: #e4e0f3;
+  --tag-text: #4a3f6b;
+  --deco: #b8a9d9;
+}
+
+/* ============ 5. Midnight Library (dark) ============ */
+[data-theme="midnight-library"] {
+  --bg-page: #141b17;
+  --surface-1: rgba(42, 58, 46, 0.55);
+  --surface-2: rgba(28, 38, 32, 0.6);
+  --surface-3: rgba(58, 78, 62, 0.7);
+  --text-main: #e6e3d6;
+  --text-muted: #a9a690;
+  --text-heading: #f1eee0;
+  --accent-primary: #c9a961;
+  --accent-primary-strong: #e0c27e;
+  --accent-secondary: #6f8a63;
+  --border: rgba(201, 169, 97, 0.2);
+  --glass-border: rgba(201, 169, 97, 0.22);
+  --focus-ring: #c9a961;
+  --shadow-card: 0 8px 30px rgba(0, 0, 0, 0.4);
+  --btn-bg: #c9a961;
+  --btn-bg-hover: #e0c27e;
+  --btn-text: #1c2620;
+  --nav-item-active-bg: #c9a961;
+  --nav-item-active-text: #1c2620;
+  --progress: #c9a961;
+  --tag-bg: rgba(201, 169, 97, 0.16);
+  --tag-text: #e0c27e;
+  --deco: #c9a961;
+}
+
+/* ============ 6. Sunday Morning ============ */
+[data-theme="sunday-morning"] {
+  --bg-page: #faf7f2;
+  --surface-1: rgba(255, 255, 255, 0.62);
+  --surface-2: rgba(232, 224, 213, 0.5);
+  --surface-3: rgba(255, 255, 255, 0.85);
+  --text-main: #4a443c;
+  --text-muted: #857c6e;
+  --text-heading: #322d27;
+  --accent-primary: #a89a86;
+  --accent-primary-strong: #6b6257;
+  --accent-secondary: #d4c8b8;
+  --border: rgba(107, 98, 87, 0.16);
+  --glass-border: rgba(255, 255, 255, 0.7);
+  --focus-ring: #6b6257;
+  --shadow-card: 0 8px 24px rgba(107, 98, 87, 0.1);
+  --btn-bg: #6b6257;
+  --btn-bg-hover: #4a443c;
+  --btn-text: #ffffff;
+  --nav-item-active-bg: #6b6257;
+  --nav-item-active-text: #faf7f2;
+  --progress: #a89a86;
+  --tag-bg: #ece5da;
+  --tag-text: #6b6257;
+  --deco: #d4c8b8;
+}
